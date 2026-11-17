@@ -4,6 +4,18 @@ A movie and TV discovery app built with Vue 3, TypeScript, and the TMDB API. Bro
 
 Cinephile is a metadata and discovery front end. It does not host, stream, or download video.
 
+## Screenshots
+
+![Cinephile home page with the featured trending movie](docs/screenshots/home.jpg)
+
+| Movie details | TV show details |
+| --- | --- |
+| ![Movie details with where-to-watch providers](docs/screenshots/movie.jpg) | ![TV show details with where-to-watch providers](docs/screenshots/tv.jpg) |
+
+| Search | Mobile |
+| --- | --- |
+| ![Search results with filters](docs/screenshots/search.jpg) | ![Cinephile home page on a phone](docs/screenshots/mobile-home.jpg) |
+
 ## Features
 
 - Trending and popular movies and TV shows, with genre filtering
